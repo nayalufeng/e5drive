@@ -38,10 +38,10 @@ module.exports = {
   // [OPTIONAL] The footer component of your website. You can write HTML here, but you need to escape double
   // quotes - changing " to \". You can write anything here, and if you like badges, generate some with https://shields.io
   footer:
-    'Powered by <a href="https://naya2016.github.io/" target="_blank" rel="noopener noreferrer">纳雅2016</a>. Made with ❤ by 纳雅2016.'
+    'Powered by <a href="https://naya2016.github.io/" target="_blank" rel="noopener noreferrer">纳雅2016</a>. Made with ❤ by 纳雅2016.',
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
   // the directories in which you have .password set. Check the documentation for details.
-  protectedRoutes: ['/三年模拟', '/保密柜']
+  protectedRoutes: ['/三年模拟', '/保密柜'],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
   email: 'mailto:247015815@qq.com',
