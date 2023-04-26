@@ -40,7 +40,7 @@ module.exports = {
   footer:
     'Powered by <a href="https://naya2016.github.io/" target="_blank" rel="noopener noreferrer">纳雅2016</a>. Made with ❤ by 纳雅2016.
   <style>
-body{background-image:url(https://onedrive.lizonglin.site/api/raw/?path=/%E5%A5%B9/QQ%E5%9B%BE%E7%89%8720200720192616.jpg);background-repeat:no-repeat;background-position:center}
+body{background-image:url(https://e5.lizonglin.site/api/raw/?path=/%E4%B8%89%E5%B9%B4%E6%A8%A1%E6%8B%9F/%E9%BB%91%E6%96%99/%E7%A7%83%E5%B4%BD%E4%B8%8D%E6%98%AF%E5%9D%8F%E5%A5%B3%E4%BA%BA/%E7%A7%83%E5%B4%BD.jpg&odpt=2899ace7b972b6807a53e70a58f282c41d7b689cbce5e1b2adb1772c904a3b08);background-repeat:no-repeat;background-position:center}
   </style>
   '
    // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
