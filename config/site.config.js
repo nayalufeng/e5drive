@@ -41,7 +41,7 @@ module.exports = {
     'Powered by <a href="https://naya2016.github.io/" target="_blank" rel="noopener noreferrer">纳雅2016</a>. Made with ❤ by 纳雅2016.',
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
   // the directories in which you have .password set. Check the documentation for details.
-  protectedRoutes: ['/三年模拟', '/保密柜', '/从入门到入狱', '/保密柜/I Konw'],
+  protectedRoutes: ['/三年模拟', '/保密柜/照片', '/从入门到入狱', '/保密柜/I Konw'],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
   email: 'mailto:247015815@qq.com',
