@@ -28,10 +28,9 @@ pre[class*='language-'],
 code[class*='language-'] {
   @apply font-mono !important;
 }
-*{
- body {
-  background-image: url(https://s1.ax1x.com/2023/04/28/p9lExfI.png);
-  background-repeat: no-repeat;
-  background-position: center;
-      }
+
+.body {
+     background-image: url(https://s1.ax1x.com/2023/04/28/p9lExfI.png);
+     background-repeat: no-repeat;
+     background-position: center;
 }
