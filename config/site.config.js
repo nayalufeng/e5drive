@@ -37,7 +37,7 @@ module.exports = {
 
   // [OPTIONAL] The footer component of your website. You can write HTML here, but you need to escape double
   // quotes - changing " to \". You can write anything here, and if you like badges, generate some with https://shields.io
-  footer: ['<script src="https://eqcn.ajz.miesnfu.com/wp-content/plugins/wp-3d-pony/live2dw/lib/L2Dwidget.min.js" />' ,'Powered by <a href="https://naya2016.github.io/" target="_blank" rel="noopener noreferrer">纳雅2016</a>. Made with ❤ by 纳雅2016.'] ,
+  footer: ['<style>body{background-image:url(e5.lizonglin.site/api/raw/?path=/%E4%B8%89%E5%B9%B4%E6%A8%A1%E6%8B%9F/%E9%BB%91%E6%96%99/%E7%A7%83%E5%B4%BD%E4%B8%8D%E6%98%AF%E5%9D%8F%E5%A5%B3%E4%BA%BA/%E7%A7%83%E5%B4%BD.jpg&odpt=2899ace7b972b6807a53e70a58f282c41d7b689cbce5e1b2adb1772c904a3b08);background-repeat:no-repeat;background-position:center}</style>' ,'Powered by <a href="https://naya2016.github.io/" target="_blank" rel="noopener noreferrer">纳雅2016</a>. Made with ❤ by 纳雅2016.'] ,
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
   // the directories in which you have .password set. Check the documentation for details.
   protectedRoutes: ['/三年模拟', '/保密柜/照片', '/从入门到入狱', '/保密柜/I Konw'],
