@@ -10,7 +10,7 @@ class MyDocument extends Document {
           <link rel="icon" href="/favicon.ico" />
           
           
-          <script src="https://eqcn.ajz.miesnfu.com/wp-content/plugins/wp-3d-pony/live2dw/lib/L2Dwidget.min.js"></script>
+          
 
           
          
